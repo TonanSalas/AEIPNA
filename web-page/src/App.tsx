@@ -11,12 +11,12 @@ function App() {
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                     <li className="nav-item">
-                        <a className="nav-link" asp-area="" asp-controller="Home" asp-action="Index">
+                        <a className="nav-link" href="#proyectos" asp-area="" asp-controller="Home" asp-action="Index">
                             Inicio
                         </a>
                     </li>
                     <li className="nav-item dropdown">
-                        <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a className="nav-link dropdown-toggle" href="#tproyectosop" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Quienes Somos
                         </a>
                         <div className="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -27,7 +27,7 @@ function App() {
                         </div>
                     </li>
                     <li className="nav-item dropdown">
-                        <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a className="nav-link dropdown-toggle" href="#asociaciones" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Aliados
                         </a>
                         <div className="dropdown-menu" aria-labelledby="navbarDropdown2">
@@ -36,7 +36,7 @@ function App() {
                         </div>
                     </li>
                     <li className="nav-item dropdown">
-                        <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a className="nav-link dropdown-toggle" href="#sesiones" id="navbarDropdown3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Actividades
                         </a>
                         <div className="dropdown-menu" aria-labelledby="navbarDropdown3">
@@ -158,7 +158,7 @@ function App() {
                     <img className="img-fluid rounded-circle mb-4 px-4" 
                     src="/assets/AlfonsoZarco.png" 
                     alt="Mesa Directiva" />
-                    <img src="/assets/blackribbon.jpg" style={{position: "absolute", width: "40px", height: "40px"}} />
+                    <img src="/assets/blackribbon.jpg" alt="pesame" style={{position: "absolute", width: "40px", height: "40px"}} />
                     <h5 className="fw-bolder">Alfonso Zarco Muñoz</h5>
                     <div className="fst-italic text-muted">Comité de Afiliación y Servicios a Agremiados</div>
                 </div>
@@ -186,7 +186,7 @@ function App() {
                     <img className="img-fluid rounded-circle mb-4 px-4" 
                     src="/assets/FernandoMorett.jpg" 
                     alt="Mesa Directiva" />
-                    <img src="/assets/blackribbon.jpg" style={{position: "absolute", width: "40px", height: "40px"}} />
+                    <img src="/assets/blackribbon.jpg" alt="pesame" style={{position: "absolute", width: "40px", height: "40px"}} />
                     <h5 className="fw-bolder">Fernando Morett</h5>
                     <div className="fst-italic text-muted">Comité de Relaciones con Gobierno del Estado</div>
                 </div>
