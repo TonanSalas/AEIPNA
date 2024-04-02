@@ -120,7 +120,7 @@ function App() {
             <div className="col mb-5 mb-5 mb-xl-0">
                 <div className="text-center">
                     <img className="img-fluid rounded-circle mb-4 px-4" 
-                    src="/assets/VictorGonzalez.png" 
+                    src="/assets/Pendiente.png" 
                     alt="Mesa Directiva" />
                     <h5 className="fw-bolder">Victor Manuel González Arredondo</h5>
                     <div className="fst-italic text-muted">Presidente</div>
@@ -156,7 +156,7 @@ function App() {
             <div className="col mb-5 mb-5 mb-xl-0">
                 <div className="text-center">
                     <img className="img-fluid rounded-circle mb-4 px-4" 
-                    src="/assets/VictorGonzalez.png" 
+                    src="/assets/Pendiente.png" 
                     alt="Mesa Directiva" />
                     <h5 className="fw-bolder">Victor Manuel González Arredondo</h5>
                     <div className="fst-italic text-muted">Comité de Afiliación</div>
@@ -174,7 +174,7 @@ function App() {
             <div className="col mb-5 mb-5 mb-xl-0">
                 <div className="text-center">
                     <img className="img-fluid rounded-circle mb-4 px-4" 
-                    src="/assets/Pending.png" 
+                    src="/assets/Pendiente.png" 
                     alt="Mesa Directiva" />
                     <h5 className="fw-bolder">Pendiente</h5>
                     <div className="fst-italic text-muted">Comité de Servicios a la Comunidad</div>
