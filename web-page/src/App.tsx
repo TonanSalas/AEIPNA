@@ -120,19 +120,19 @@ function App() {
             <div className="col mb-5 mb-5 mb-xl-0">
                 <div className="text-center">
                     <img className="img-fluid rounded-circle mb-4 px-4" 
-                    src="/assets/PabloMedina.png" 
+                    src="/assets/VictorGonzalez.png" 
                     alt="Mesa Directiva" />
-                    <h5 className="fw-bolder">Pablo de Jesús Medina Llamas</h5>
+                    <h5 className="fw-bolder">Victor Manuel González Arredondo</h5>
                     <div className="fst-italic text-muted">Presidente</div>
                 </div>
             </div>
             <div className="col mb-5 mb-5 mb-xl-0">
                 <div className="text-center">
                     <img className="img-fluid rounded-circle mb-4 px-4" 
-                    src="/assets/GabrielSuarez.png" 
+                    src="/assets/PabloMedina.png" 
                     alt="Mesa Directiva" />
-                    <h5 className="fw-bolder">José Gabriel Suárez Delgado</h5>
-                    <div className="fst-italic text-muted">Asesor de la Presidencia &amp; Presidente anterior</div>
+                    <h5 className="fw-bolder">Pablo de Jesús Medina Llamas</h5>
+                    <div className="fst-italic text-muted">Presidente anterior</div>
                 </div>
             </div>
             <div className="col mb-5 mb-5 mb-sm-0">
@@ -141,10 +141,55 @@ function App() {
                     src="/assets/AntonioEscobar.png" 
                     alt="Mesa Directiva" />
                     <h5 className="fw-bolder">José Antonio Escobar Escobar</h5>
-                    <div className="fst-italic text-muted">Secretario Técnico</div>
+                    <div className="fst-italic text-muted">Secretario Ejecutivo</div>
                 </div>
             </div>
-            <div className="col mb-5">
+            <div className="col mb-5 mb-5 mb-sm-0">
+                <div className="text-center">
+                    <img className="img-fluid rounded-circle mb-4 px-4" 
+                    src="/assets/AntonioEscobar.png" 
+                    alt="Mesa Directiva" />
+                    <h5 className="fw-bolder">José Antonio Escobar Escobar</h5>
+                    <div className="fst-italic text-muted">Finanzas</div>
+                </div>
+            </div>
+            <div className="col mb-5 mb-5 mb-xl-0">
+                <div className="text-center">
+                    <img className="img-fluid rounded-circle mb-4 px-4" 
+                    src="/assets/VictorGonzalez.png" 
+                    alt="Mesa Directiva" />
+                    <h5 className="fw-bolder">Victor Manuel González Arredondo</h5>
+                    <div className="fst-italic text-muted">Comité de Afiliación</div>
+                </div>
+            </div>
+            <div className="col mb-5 mb-5 mb-xl-0">
+                <div className="text-center">
+                    <img className="img-fluid rounded-circle mb-4 px-4" 
+                    src="/assets/GabrielSuarez.png" 
+                    alt="Mesa Directiva" />
+                    <h5 className="fw-bolder">José Gabriel Suárez Delgado</h5>
+                    <div className="fst-italic text-muted">Comité de Vinculación</div>
+                </div>
+            </div>
+            <div className="col mb-5 mb-5 mb-xl-0">
+                <div className="text-center">
+                    <img className="img-fluid rounded-circle mb-4 px-4" 
+                    src="/assets/Pending.png" 
+                    alt="Mesa Directiva" />
+                    <h5 className="fw-bolder">Pendiente</h5>
+                    <div className="fst-italic text-muted">Comité de Servicios a la Comunidad</div>
+                </div>
+            </div>
+            <div className="col mb-5 mb-5 mb-xl-0">
+                <div className="text-center">
+                    <img className="img-fluid rounded-circle mb-4 px-4" 
+                    src="/assets/TonanSalas.png" 
+                    alt="Mesa Directiva" />
+                    <h5 className="fw-bolder">Tonan Alejandro Salas Cruz</h5>
+                    <div className="fst-italic text-muted">Comité de Comunicación</div>
+                </div>
+            </div>
+            {/* <div className="col mb-5">
                 <div className="text-center">
                     <img className="img-fluid rounded-circle mb-4 px-4" 
                     src="/assets/MiguelLicon.png" 
@@ -226,7 +271,7 @@ function App() {
                     <h5 className="fw-bolder">Martín Rojas Preciat</h5>
                     <div className="fst-italic text-muted">Tesorero</div>
                 </div>
-            </div>
+            </div> */}
         </div>
     </div>
 </section>
